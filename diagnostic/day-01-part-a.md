@@ -1,4 +1,3 @@
-
 # Day 1 — Diagnostic Part A
 
 Date: 24-11-2026
